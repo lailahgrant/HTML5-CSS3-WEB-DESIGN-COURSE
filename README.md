@@ -46,4 +46,5 @@
     - Easy mobile nav
 
 #### What to download
-- Exercise files - link [] 
+- Exercise files - link https://www.bringyourownlaptop.com/exercise-files 
+  

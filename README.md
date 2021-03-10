@@ -46,6 +46,18 @@
     - Fully Furnished Restuarant Website.
     - Testing yourt website 
          - installing an extension for live updates in the browser
+              - Live Server
+    - Check your code for errors
+         - Extension 
+            - HTMLHint
+    - What are HTML Structure tags?
+         - header,nav, main, footer
+         - header, nav, article, section, aside, footer
+    - Add HTML Structures
+    - Adding images to a Website
+    - How to center an image
+    - Hyperlinks
+    - Making a Div tag transparent    
 
     ## To Accomplish... 
 - Build a simple restuarant website (basic HTML and CSS)

@@ -23,7 +23,8 @@
 
 #### Course Units
 >  Web Design Essentials [HTML5 & CSS3]
--  Introduction
+- PROJECT 0 - basics
+  -  Introduction
     - What is HTML5 and CSS3?
     -  Head vs body vs html tag
         - in VSCode, in an HTMl page, press ! and press enter to complete the default.
@@ -36,7 +37,17 @@
     - Using Div tags 
     - What is a CSS class?
     - How to nest divs.
+    - Class Project 1 [find in the downloadable exercise files].
+    - External CSS
+  
+- PROJECT 1 - Creating our index style page 
+    - Structure
+    - More detailed Restaurant wireframe
+    - Fully Furnished Restuarant Website.
+    - Testing yourt website 
+         - installing an extension for live updates in the browser
 
+    ## To Accomplish... 
 - Build a simple restuarant website (basic HTML and CSS)
 - More advanced Website [Roar Cycle website] (Intermediate HTML and CSS)
 - Making a Portfolio website Responsive (it will adjust for different devices e.g. phones)

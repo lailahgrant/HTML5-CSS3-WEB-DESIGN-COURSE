@@ -83,3 +83,10 @@
 #### Some of the available things in the downloaded exercises
 - Project 1
     - in the Project 1 - Restaurant folder, you will find images, Project 1- text file that contains texts about the Restaurant website.
+
+> In the tutorial, Paid hosting service Bluehost was used...
+> It has free domain name.
+### Go Live with free resource :relaxed:
+> - Netlify.
+- link to my netlify website of Adare Resaurant is https://adarerestuarantuganda.netlify.app/
+- Enjoy  :smirk:

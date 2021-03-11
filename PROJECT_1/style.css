@@ -8,7 +8,7 @@ html{
 body{
     /* background-color: rgba(3, 2, 3, 0.801); */
     background-color: #2F3035; /*leave the background color for incase an image takes long to load*/
-    background-image: url(images/background-adare-restaurant.jpg);
+    background-image: url("PROJECT_1/background-adare-restaurant.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

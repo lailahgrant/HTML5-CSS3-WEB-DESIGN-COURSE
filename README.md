@@ -57,7 +57,16 @@
     - Adding images to a Website
     - How to center an image
     - Hyperlinks
-    - Making a Div tag transparent    
+    - Making a Div tag transparent  
+    - Simple Website text Navigation  
+    - CSS Compound Classes
+        - Specificity.
+    - Adding an email button to a website. 
+    - add Google maps to your website.
+    - Making a website live
+        - domain name
+        - hosting 
+        - Connecting VSCode with the hosting to upload the website  
 
     ## To Accomplish... 
 - Build a simple restuarant website (basic HTML and CSS)
@@ -70,4 +79,7 @@
 
 #### What to download
 - Exercise files - link https://www.bringyourownlaptop.com/exercise-files 
-  
+
+#### Some of the available things in the downloaded exercises
+- Project 1
+    - in the Project 1 - Restaurant folder, you will find images, Project 1- text file that contains texts about the Restaurant website.

@@ -30,13 +30,22 @@ header{
 }
 
 nav {
-    background-color: red;
-    height: 40px;
+    background-color: rgba(17, 17, 17, 0.338); /*made background color transparent*/
+    /* to center a tags horizontally in the nav, we get rid of the height and we use padding */
+    padding: 14px 0 14px 0; /*padding: top right bottom left;*/
+    text-align: center;
+    /* height: 40px; */ /*I've commented out the height and using padding instead in the lines above*/
     /* width: 1024px; */
     /* margin-left: auto;
     margin-right: auto; */
 }
  
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding: 0 10px 0 10px;
+}
+
 main{
     height: 400px;
     text-align: center;
@@ -50,15 +59,22 @@ main{
 }
 
 footer {
-    background-color: greenyellow;
-    height: 100px;
+    background-color: rgba(0, 0, 0, 0.664);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* height: 100px; */
     /* width: 1024px; */
     /* margin-left: auto;
     margin-right: auto; */
 }
+footer p{
+    font-size: 9px;
+    color: rgb(218, 214, 214);
+    text-align: center;
+}
 
 h1{
-    font-size: 84px;
+    font-size: 84px; 
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -75,6 +91,9 @@ a {
     /* text-decoration: none; */
 }
 
+.maps{
+    margin-bottom: 100px;
+}
 
 
 

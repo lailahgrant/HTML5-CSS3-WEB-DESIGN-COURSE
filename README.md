@@ -2,7 +2,7 @@
 ` Daniel Scott is a Web Designer for over 15 years, an Award Wining Instrutor (2 consecutive winner at the massive Adobe Conference). ` 
 
 > ### Who is this course for?
-> ` Beginners `
+> ` Beginners `  :eyes:
 
 #### To-do
 ##### i) Start with
@@ -89,4 +89,8 @@
 ### Go Live with free resource :relaxed:
 > - Netlify.
 - link to my netlify website of Adare Resaurant is https://adarerestuarantuganda.netlify.app/
-- Enjoy  :smirk:
+
+
+` Adding emojis to this README.md file from` https://gist.github.com/rxaviers/7360908 
+
+> ` Enjoy  :smirk:  `
